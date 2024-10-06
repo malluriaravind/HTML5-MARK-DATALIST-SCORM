@@ -19,22 +19,22 @@ The user can submit answers and view their score at the end. The project feature
 Below are the images representing different parts of the quiz:
 
 1. **Question 1** - Geometry question with multiple-choice answers.
-   ![Question 1](images/question1.PNG)
+   ![Question 1](Screenshots/question1.PNG)
 
 2. **Question 2** - Trigonometry question with multiple-choice answers.
-   ![Question 2](images/question2.PNG)
+   ![Question 2](Screenshots/question2.PNG)
 
 3. **Question 3** - A question related to Twitter's stock price options.
-   ![Question 3](images/question3.PNG)
+   ![Question 3](Screenshots/question3.PNG)
 
 4. **Question 4** - A question with an embedded video related to NASA missions.
-   ![Question 4](images/question4.PNG)
+   ![Question 4](Scrrenshots/question4.PNG)
 
 5. **Result Page** - Displays the total score of the user after completing the quiz.
-   ![Result Page](images/result.PNG)
+   ![Result Page](Screenshots/result.PNG)
 
 6. **User Login Page** - The login page where users can sign in to take the quiz.
-   ![User Login](images/user_login.PNG)
+   ![User Login](Screenshots/user_login.PNG)
 
 ## How to Run
 
