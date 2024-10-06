@@ -28,7 +28,7 @@ Below are the images representing different parts of the quiz:
    ![Question 3](Screenshots/question3.PNG)
 
 4. **Question 4** - A question with an embedded video related to NASA missions.
-   ![Question 4](Scrrenshots/question4.PNG)
+   ![Question 4](Screenshots/question4.PNG)
 
 5. **Result Page** - Displays the total score of the user after completing the quiz.
    ![Result Page](Screenshots/result.PNG)
